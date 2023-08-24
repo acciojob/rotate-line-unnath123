@@ -1,4 +1,11 @@
-/*  your css code here. If applicable */
-#line1{
-	width:200px;
+ 
+#line {
+  width: 200px;
+  height: 2px;
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
+ 
